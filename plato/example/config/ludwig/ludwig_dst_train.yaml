@@ -1,0 +1,44 @@
+---
+
+input_features:
+    -
+        name: dst_prev_food
+        type: category
+    -
+        name: dst_prev_area
+        type: category
+    -
+        name: dst_prev_pricerange
+        type: category
+    -
+        name: nlu_intent
+        type: set
+    -
+        name: req_slot
+        type: category
+    -
+        name: inf_area_value
+        type: category
+    -
+        name: inf_food_value
+        type: category
+    -
+        name: inf_pricerange_value
+        type: category
+
+output_features:
+    -
+        name: dst_food
+        type: category
+    -
+        name: dst_area
+        type: category
+    -
+        name: dst_pricerange
+        type: category
+    -
+        name: dst_req_slot
+        type: category
+
+training:
+  epochs: 100

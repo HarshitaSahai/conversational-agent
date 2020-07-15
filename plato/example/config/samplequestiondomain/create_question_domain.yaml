@@ -1,0 +1,12 @@
+GENERAL:
+  csv_file_name: C:\Users\Harshita\plato-research-dialogue-system\plato\example\data\samplequestions.csv
+  db_table_name: samplequestions
+  db_file_path: C:\Users\Harshita\plato-research-dialogue-system\plato\example\domains\samplequestions-dbase.db
+  ontology_file_path: C:\Users\Harshita\plato-research-dialogue-system\plato\example\domains\samplequestions-rules.json
+
+ONTOLOGY:  # Optional
+  informable_slots: [id, question, answer]
+
+  requestable_slots: [answer]
+
+  System_requestable_slots: [id, question,answer]

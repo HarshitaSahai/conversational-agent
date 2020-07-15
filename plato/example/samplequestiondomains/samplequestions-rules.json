@@ -1,0 +1,27 @@
+{
+    "type":"samplequestions",
+    "informable":{
+        "id":[
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "question":[
+            "how are you feeling",
+            "what can be the reson for yor feelings",
+            "do you have any addiction"
+        ],
+        "answer":[
+            "irritated\nlousy\nupset\nincapable\nenraged\ndisappointed\ndoubtful\nalone\nhostile\ndiscouraged\nuncertain\nparalyzed\ninsulting\nashamed\nindecisive\nfatigued\nsore\npowerless\nperplexed\nuseless\nannoyed\ndiminished\nembarrassed\ninferior\nupset\nguilty\nhesitant\nvulnerable\nhateful\ndissatisfied\nshy\nempty\nunpleasant\nmiserable\nstupefied\nforced\noffensive\ndetestable\ndisillusioned\nhesitant\nbitter\nrepugnant\nunbelieving\ndespair\naggressive\ndespicable\nskeptical\nfrustrated\nresentful\ndisgusting\ndistrustful\ndistressed\ninflamed\nabominable\nmisgiving\nwoeful\nprovoked\nterrible\nlost\npathetic\nincensed\nin despair\nunsure\ntragic\ninfuriated\nsulky\nuneasy\nin a stew\ncross\nbad\npessimistic\ndominated\nworked up\na sense of loss\ntense\nboiling\nfuming\nindignantin sensitive\nfearful\ncrushed\ntearful\ndull\nterrified\ntormented\nsorrowful\nnonchalant\nsuspicious\ndeprived\npained\nneutral\nanxious\npained\ngrief\nreserved\nalarmed\ntortured\nanguish\nweary\npanic\ndejected\ndesolate\nbored\nnervous\nrejected\ndesperate\npreoccupied\nscared\ninjured\npessimistic\ncold\nworried\noffended\nunhappy\ndisinterested\nfrightened\nafflicted\nlonely\nlifeless\ntimid\naching\ngrieved\n shaky\nvictimized\nmournful\nrestless\nheartbroken\ndismayed\ndoubtful\nagonized\nthreatened\nappalled\ncowardly\nhumiliated\nquaking\nwronged\nmenaced\nalienated\nwary",
+            "family friends work marriage relationship",
+            "yes"
+        ]
+    },
+    "requestable":[
+        "answer"
+    ],
+    "system_requestable":[
+        "question",
+        "answer"
+    ]
+}
